@@ -1,4 +1,4 @@
-# shock_topology
+# Topology of Shock-Turbulence Interactions
 Files from Foley et al. 2024 - Topology of Shock-Turbulence Interactions
 
 https://michaelmfoley.github.io/shock_topology
